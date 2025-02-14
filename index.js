@@ -10,3 +10,7 @@ function RollCredits()
 {
   alert("You know the guy :)")
 }
+function RunProfileChecks(username)
+{
+
+}

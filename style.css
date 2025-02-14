@@ -13,22 +13,22 @@
 .artistic-placeholder
 {
 	position: absolute;
-	heigh: 20%;
+	height: 40%;
 	width: 100%;
-	background-color: blue;
 }
 .UI-container
 {
 	position: absolute;
 	margin: 0;
 	height: 25%;
-	width: 50%;
-	left: 50%
+	width: 100%;
+	top: 60%;
 }
 .ui-buttons
 {
-	position: absolute;
+	position: relative;
 	margin: 0;
-	text-align: center;
 	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
 }
