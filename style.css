@@ -17,3 +17,9 @@
 	width: 100%;
 	background-color: blue;
 }
+.UI-container
+{
+	position: relative;
+	height: 100px;
+	width: 700px;
+}
