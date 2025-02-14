@@ -20,6 +20,13 @@
 .UI-container
 {
 	position: relative;
-	height: 100px;
-	width: 700px;
+	margin: auto;
+	height: 25%;
+	width: 50%;
+}
+.ui-buttons
+{
+	position: relative;
+	margin: auto;
+	text-align: center;
 }
